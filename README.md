@@ -1,18 +1,27 @@
 ## <h1 align="center">Welcome to my profile!👋</h1>
 
 ---
+
 ## 📞 Contact info
+
 [![LinkedIn](https://github.com/user-attachments/assets/7fa4a5ca-6888-4f0d-bca0-fc01403ed194)](https://www.linkedin.com/in/lucasulson)
 [![Gmail](https://github.com/user-attachments/assets/89f90463-184c-485a-8d31-3ba561b1cef7)](mailto:lucasnoryulson@gmail.com)
 
+---
+
 ## 🙋 About me
+
 - Software Developer from Brazil 🇧🇷  
 - Computer Science undergraduate at Pontificia Catholic University of Rio Grande do Sul (PUCRS) 🎓
+
+---
 
 ## 🔍 Field of interest
 - Back-end and Web Development 🛠️  
 - Data Science  
 - Artificial Intelligence (AI) 🤖
+
+---
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -25,3 +34,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lucasnoryulson&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
