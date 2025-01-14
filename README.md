@@ -1,3 +1,6 @@
+## <h1 align="center">Welcome to my profile!👋</h1>
+
+---
 ## 📞 Contact info
 [![LinkedIn](https://github.com/user-attachments/assets/7fa4a5ca-6888-4f0d-bca0-fc01403ed194)](https://www.linkedin.com/in/lucasulson)
 [![Gmail](https://github.com/user-attachments/assets/89f90463-184c-485a-8d31-3ba561b1cef7)](mailto:lucasnoryulson@gmail.com)
